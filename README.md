@@ -24,3 +24,7 @@ Run the program
   python main.py
 ```
 
+
+## Demo
+
+https://cloud-jkhnm08g9-hack-club-bot.vercel.app/0screen_recording_2025-01-06_174655.mp4

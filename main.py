@@ -108,6 +108,11 @@ current_room = corridor
 inventory = []
 killCount = 0
 
+# START
+clearScreen()
+GAMEINFO.welcome()
+start = input("Press any key to start the game. ")
+
 while True and killCount < 2:
     clearScreen()
 
